@@ -31,7 +31,7 @@ F=(((C.B'.A)+(D.C'.A)+(C.B'.A))')' using NOR gate
 6.Give the respective inputs for timing diagram and obtain the results.
 
 
-
+~~~
 
 ## Program:
 /*
@@ -66,12 +66,7 @@ assign S = ~(P|Q|R);
 not(F,S);
 endmodule
 
-
-
-
-
-
-
+~~~
 
 ## Output:
 
